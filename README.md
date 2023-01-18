@@ -1,4 +1,4 @@
-### Hi👋, I'm Karen Dianne!
+### Hola👋, Soy Karen !
 
 🔭 Hice un proyecto individual para Henry PI - Foods
 
