@@ -1,5 +1,9 @@
 ### Hola👋, Soy Karen !
 
+⚡ Empecé en el mundo tech hace poco tiempo con mucha ilusión y entusiasmo, un mundo apasionate en el cual proyecto mucho crecimiento personal y profesional
+
+👨‍💻 Soy egresada de Soy Henry en la carrera de Full Stack Developer
+
 🔭 Hice un proyecto individual para Henry PI - Foods
 
 🌱 Actualmente estoy aprendiendo más frameworks y librerías de estilos
@@ -10,12 +14,13 @@
 
 📫 Contacto memmelkaren@gmail.com
 
-⚡ Empecé en el mundo tech hace poco tiempo con mucha ilusión y entusiasmo, un mundo apasionate en el cual proyecto mucho crecimiento personal y profesional
-
-Connect with me:
 https://www.linkedin.com/in/karen-dianne-103201261/
 
-Languages and Tools:
+
+
+
+
+Lenguajes y tecnologías:
 
 ![image](https://user-images.githubusercontent.com/102989674/213037361-178bc29a-5203-41cd-bf39-e7a063c663f8.png)
  ![image](https://user-images.githubusercontent.com/102989674/213037388-8e654bd8-79f4-4a77-8140-82d74e747604.png)
